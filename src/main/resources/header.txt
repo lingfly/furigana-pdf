@@ -1,0 +1,17 @@
+% !TeX encoding = UTF-8
+% !TeX program = LuaLaTeX
+
+\documentclass{article}
+
+\usepackage{luatexja-ruby}
+
+\ltjsetruby{size=0.6}            %设置振假名字号
+%\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
+\ltjsetruby{mode=00}             %设置振假名的「進入」和「突出」模式
+
+\begin{document}
+
+%\gtfamily                       %设置主体文字字体
+\large
+\linespread{2.2}
+\selectfont
