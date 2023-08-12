@@ -125,4 +125,8 @@ public class Main {
 
         return text.toString();
     }
+
+    void translate(String word) {
+
+    }
 }

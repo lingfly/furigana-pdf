@@ -1,9 +1,14 @@
 % !TeX encoding = UTF-8
 % !TeX program = LuaLaTeX
 
-\documentclass{article}
+\documentclass[12pt,a4paper,oneside,openany]{book}
+% \raggedright
+%\pagestyle{headings}
+\setlength{\parindent}{2em}
+
 
 \usepackage{luatexja-ruby}
+\usepackage{indentfirst}
 
 \ltjsetruby{size=0.6}            %设置振假名字号
 %\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
@@ -11,7 +16,14 @@
 
 \begin{document}
 
+
+\tableofcontents
+
+
+\chapter{六歳の時}
+\markright{六歳の時}
+
+
 %\gtfamily                       %设置主体文字字体
-\large
-\linespread{2.2}
+\linespread{1.8}
 \selectfont

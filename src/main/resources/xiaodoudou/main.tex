@@ -1,0 +1,27 @@
+% !TeX encoding = UTF-8
+% !TeX program = LuaLaTeX
+
+\documentclass[12pt,a4paper,oneside,openany]{book}
+
+\usepackage{luatexja-ruby}       %假名标注
+\usepackage{xcolor}			 %引入颜色
+\usepackage[hidelinks]{hyperref} %给目录添加超链接
+\usepackage{indentfirst}         %首行缩进
+
+\ltjsetruby{size=0.6}            %设置振假名字号
+%\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
+\ltjsetruby{mode=00}             %设置振假名的「進入」和「突出」模式
+
+\setlength{\parindent}{2em}
+\marginparwidth = 72pt           %边栏宽度
+
+\newcounter{num}[chapter]
+\newcommand{\translate}[2]{\addtocounter{num}{1} {\color{orange} #1\textsuperscript{\scriptsize \thenum}}\marginpar{\scriptsize \textsuperscript{\scriptsize \thenum} #2}}
+
+\begin{document}
+\tableofcontents
+
+\chapter{初めての駅}
+\input{chapter1.tex}
+
+\end{document}
