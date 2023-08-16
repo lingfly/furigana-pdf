@@ -6,15 +6,33 @@
 \usepackage{luatexja-ruby}       %假名标注
 \usepackage{xcolor}			 %引入颜色
 \usepackage[hidelinks]{hyperref} %给目录添加超链接
-\usepackage{indentfirst}         %首行缩进
+\usepackage{titlesec}
+\usepackage{indentfirst}         %章节首页首行缩进
+
+% 自定义章节标题样式，调整默认垂直间距
+\titleformat{\chapter}       	 % 要格式化的章节命令，如 \chapter、\section、\subsection 等。
+[hang]                       	 % 标题的形状，可以是 hang（悬挂格式，默认）、block（块格式）
+{\normalfont\Huge\bfseries}   	 % format,标题的整体格式，可以包括字体、大小、粗细等
+{Chapter\thechapter}          	 % label,标题编号的格式，如 \thechapter、\thesection 等。
+{1em}                         	 % Spacing between label and title
+{}  
+
+\headheight = 13pt           	 % 页眉高度
+\headsep = 18pt		        	 %  页眉和正文的间距
+\topmargin = -20pt
+\titlespacing{\chapter}{0pt}{0pt}{10pt} % 调整标题间距
 
 \ltjsetruby{size=0.6}            %设置振假名字号
 %\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
 \ltjsetruby{mode=00}             %设置振假名的「進入」和「突出」模式
 
-\setlength{\parindent}{2em}
+\setlength{\parindent}{2em}	 %首行缩进
 \marginparwidth = 72pt           %边栏宽度
 
+\linespread{1.8}			 %行距
+\selectfont
+
+% 边注
 \newcounter{num}[chapter]
 \newcommand{\translate}[2]{\addtocounter{num}{1} {\color{orange} #1\textsuperscript{\scriptsize \thenum}}\marginpar{\scriptsize \textsuperscript{\scriptsize \thenum} #2}}
 
@@ -23,5 +41,7 @@
 
 \chapter{初めての駅}
 \input{chapter1.tex}
+
+
 
 \end{document}

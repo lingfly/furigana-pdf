@@ -7,21 +7,16 @@ import com.alibaba.fastjson.JSONObject;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
+    private static final int grade = 1;
     public static void main(String[] args) throws FileNotFoundException {
         Main main = new Main();
-        StringBuilder text = new StringBuilder();
         List<String> input = main.input();
-        for (String paragraph : input) {
-            List<Word> words = main.getWord(paragraph);
-            text.append(main.text(words)).append("\n\n");
-        }
-        String format = main.format(text);
-        main.output(format);
+        List<WordMap> words = main.getWord(input);
+        StringBuilder text = main.text(words);
+        main.output(text.toString());
     }
 
     List<String> input() throws FileNotFoundException {
@@ -45,16 +40,20 @@ public class Main {
         writer.close();
     }
 
-    StringBuilder text(List<Word> words) {
+    StringBuilder text(List<WordMap> words) {
+        words.sort(Comparator.comparing(WordMap::getKey));
         StringBuilder text = new StringBuilder();
-        for (Word word : words) {
-            if (word.getSubword() != null) {
-                for (Word sub : word.getSubword()) {
-                    wordToRuby(sub, text);
+        for (WordMap wordMap : words) {
+            for (Word word : wordMap.getWords()) {
+                if (word.getSubword() != null) {
+                    for (Word sub : word.getSubword()) {
+                        wordToRuby(sub, text);
+                    }
+                } else {
+                    wordToRuby(word, text);
                 }
-            } else {
-                wordToRuby(word, text);
             }
+            text.append("\n\n");
         }
         return text;
     }
@@ -69,7 +68,33 @@ public class Main {
         }
     }
 
-    List<Word> getWord(String text) {
+    List<WordMap> getWord(List<String> paragraphs) throws FileNotFoundException {
+        String wordJson = "";
+        Scanner in = new Scanner(new File("src/main/resources/word.json"));
+        while (in.hasNext()) {
+            wordJson += in.next();
+        }
+        if (!wordJson.isEmpty()) {
+            return JSON.parseArray(wordJson, WordMap.class);
+        }
+
+        int count = 1;
+        List<WordMap> words = new ArrayList<>();
+        for (String paragraph : paragraphs) {
+            WordMap wordMap = new WordMap();
+            wordMap.setKey(String.valueOf(count++));
+            wordMap.setWords(doGetWord(paragraph));
+            words.add(wordMap);
+        }
+
+        PrintWriter writer = new PrintWriter("src/main/resources/word.json");
+        writer.print(JSON.toJSONString(words));
+        writer.close();
+        return words;
+    }
+
+    List<Word> doGetWord(String text) {
+        StringBuilder response = new StringBuilder();
         try {
             URL url = new URL("https://jlp.yahooapis.jp/FuriganaService/V2/furigana");
             HttpURLConnection connection = ((HttpURLConnection) url.openConnection());
@@ -80,33 +105,27 @@ public class Main {
             FuriganaReq req = new FuriganaReq();
             ParamReq paramReq = new ParamReq();
             paramReq.setQ(text);
+            paramReq.setGrade(grade);
             req.setParams(paramReq);
             byte[] bytes = JSON.toJSONBytes(req);
-
             try (OutputStream outputStream = connection.getOutputStream()) {
                 outputStream.write(bytes);
             }
 
             int responseCode = connection.getResponseCode();
-
-
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
-            StringBuilder response = new StringBuilder();
+
             String line;
             while ((line = reader.readLine()) != null) {
                 response.append(line);
             }
             reader.close();
-            JSONObject jsonObject = JSON.parseObject(response.toString());
-            JSONArray jsonArray = jsonObject.getJSONObject("result").getJSONArray("word");
-
-
-            return jsonArray.toJavaList(Word.class);
-
-
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
+        JSONObject jsonObject = JSON.parseObject(response.toString());
+        JSONArray jsonArray = jsonObject.getJSONObject("result").getJSONArray("word");
+        return jsonArray.toJavaList(Word.class);
     }
 
     String format(StringBuilder text) throws FileNotFoundException {
