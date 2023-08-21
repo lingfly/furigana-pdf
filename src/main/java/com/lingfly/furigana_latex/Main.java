@@ -35,7 +35,7 @@ public class Main {
     }
 
     void output(String text) throws FileNotFoundException {
-        PrintWriter writer = new PrintWriter("src/main/resources/out.txt");
+        PrintWriter writer = new PrintWriter("src/main/resources/out.tex");
         writer.println(text);
         writer.close();
     }
