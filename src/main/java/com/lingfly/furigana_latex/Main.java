@@ -10,7 +10,7 @@ import java.net.URL;
 import java.util.*;
 
 public class Main {
-    private static final int grade = 1;
+    private static final int grade = 2;
     public static void main(String[] args) throws FileNotFoundException {
         Main main = new Main();
         List<String> input = main.input();

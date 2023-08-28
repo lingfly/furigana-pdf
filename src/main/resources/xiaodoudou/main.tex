@@ -18,9 +18,12 @@
 {}  
 
 \headheight = 13pt           	 % 页眉高度
-\headsep = 18pt		        	 %  页眉和正文的间距
-\topmargin = -20pt
-\titlespacing{\chapter}{0pt}{0pt}{10pt} % 调整标题间距
+\headsep = 30pt		        	 % 页眉和正文的间距
+\topmargin = -30pt               % 页眉和页面顶端的间距
+\titlespacing{\chapter}{0pt}{-60pt}{10pt} % 调整标题间距
+\textheight = 700pt              % 正文高度
+\textwidth = 450pt 			 % 正文宽度
+\setlength{\hoffset}{-20pt}      % 正文向左偏移20pt
 
 \ltjsetruby{size=0.6}            %设置振假名字号
 %\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
@@ -47,5 +50,11 @@
 
 \chapter{新しい学校}
 \input{chapter3.tex}
+
+\chapter{気に入ったわ}
+\input{chapter4.tex}
+
+\chapter{校長先生}
+\input{chapter5.tex}
 
 \end{document}
