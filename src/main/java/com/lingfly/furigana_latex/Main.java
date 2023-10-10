@@ -41,7 +41,7 @@ public class Main {
     }
 
     StringBuilder text(List<WordMap> words) {
-        words.sort(Comparator.comparing(WordMap::getKey));
+        words.sort(Comparator.comparing(x -> Integer.valueOf(x.getKey())));
         StringBuilder text = new StringBuilder();
         for (WordMap wordMap : words) {
             for (Word word : wordMap.getWords()) {
