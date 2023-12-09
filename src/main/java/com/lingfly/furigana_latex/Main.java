@@ -114,6 +114,7 @@ public class Main {
 
             int responseCode = connection.getResponseCode();
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            Object o = JSON.parseObject(connection.getInputStream(), Object.class);
 
             String line;
             while ((line = reader.readLine()) != null) {
