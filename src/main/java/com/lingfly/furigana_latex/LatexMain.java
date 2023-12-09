@@ -12,7 +12,7 @@ import java.util.*;
 public class Main {
     private static final int grade = 2;
     public static void main(String[] args) throws FileNotFoundException {
-        Main main = new Main();
+        LatexMain main = new LatexMain();
         List<String> input = main.input();
         List<WordMap> words = main.getWord(input);
         StringBuilder text = main.text(words);
@@ -114,7 +114,6 @@ public class Main {
 
             int responseCode = connection.getResponseCode();
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
-            Object o = JSON.parseObject(connection.getInputStream(), Object.class);
 
             String line;
             while ((line = reader.readLine()) != null) {
