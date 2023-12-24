@@ -1,19 +1,12 @@
 package com.common;
 
 import com.alibaba.fastjson.JSON;
-import com.aliyun.credentials.http.HttpResponse;
-import com.lingfly.furigana_latex.FuriganaReq;
-import com.lingfly.furigana_latex.ParamReq;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.lang.reflect.Type;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Collections;
 import java.util.Map;
 
 public class HttpUtil {
