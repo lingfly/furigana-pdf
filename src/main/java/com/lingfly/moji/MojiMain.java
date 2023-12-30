@@ -11,8 +11,12 @@ import java.util.*;
 
 public class MojiMain {
     final static int PAGE_COUNT = 50;
-    final static int PAGE_INDEX = 1;
-    final static int PAGE_MAX = 1;
+    final static int PAGE_INDEX = 13;
+    final static int PAGE_MAX = 16;
+    final static String FID = "3YgyQ4DuXT";
+
+
+    static Map<String, String> id2title = new HashMap<>();
 
     public static void main(String[] args) throws IOException {
         MojiMain main = new MojiMain();
@@ -26,7 +30,7 @@ public class MojiMain {
 
     public List<String> getFavorites() throws IOException {
         Map<String, Object> req = new HashMap<>();
-        req.put("fid", "GxwDzhduWi");
+        req.put("fid", FID);
         req.put("count", PAGE_COUNT);
         req.put("sortType", 5);
         req.put("pageIndex", PAGE_INDEX);
@@ -38,7 +42,7 @@ public class MojiMain {
         req.put("_InstallationId", "64e2737c-c972-43bf-8d89-2d9f3559c824");
 
 
-        Integer i = 1, totalPage = 1;
+        int i = PAGE_INDEX, totalPage;
         List<String> list = new ArrayList<>();
         do {
             req.put("pageIndex", i++);
@@ -47,7 +51,9 @@ public class MojiMain {
 
             JSONArray result = resp.getJSONObject("result").getJSONArray("result");
             for (JSONObject object : result.toJavaList(JSONObject.class)) {
-                list.add(object.getString("targetId"));
+                String id = object.getString("targetId");
+                list.add(id);
+                id2title.put(id, object.getString("title"));
             }
         } while (i <= totalPage && i <= PAGE_MAX);
         System.out.println("total page: " + totalPage);
@@ -75,10 +81,18 @@ public class MojiMain {
                     throw new RuntimeException(e);
                 }
                 objectId.objectId = idList.get(i);
-                JSONObject resp = HttpUtil.post("https://api.mojidict.com/parse/functions/nlt-fetchManyLatestWords", req, JSONObject.class, null);
-                MojiWord word = resp.getJSONObject("result").getJSONArray("result").getObject(0, MojiWord.class);
 
-                dataList.add(new MojiData(word));
+                try {
+                    JSONObject resp = HttpUtil.post("https://api.mojidict.com/parse/functions/nlt-fetchManyLatestWords", req, JSONObject.class, null);
+                    MojiWord word = resp.getJSONObject("result").getJSONArray("result").getObject(0, MojiWord.class);
+                    dataList.add(new MojiData(word));
+                } catch (Exception e) {
+                    System.out.println("req: " + JSON.toJSONString(req));
+                    System.out.println("title: " + JSON.toJSONString(id2title));
+                    e.printStackTrace();
+                }
+
+
             }
         } finally {
             System.out.println("moji_word:" + JSON.toJSONString(dataList));

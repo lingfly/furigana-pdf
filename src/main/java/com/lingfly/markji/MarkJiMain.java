@@ -63,7 +63,7 @@ public class MarkJiMain {
                     for (MojiWord.Example example : subdetail.getExamples()) {
                         out.println();
                         out.println(example.getTitle());
-                        out.printf("[T#!!e5e6ea#%s]%n", example.getTrans());
+                        out.printf("[T#!90959b#%s]%n", example.getTrans());
                     }
                 }
                 out.print("\n" + newline + "\n\n");
