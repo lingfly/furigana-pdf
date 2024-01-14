@@ -26,9 +26,15 @@
             <version>1.18.28</version>
         </dependency>
         <dependency>
-            <groupId>com.aliyun</groupId>
-            <artifactId>alimt20181012</artifactId>
-            <version>1.2.0</version>
+            <groupId>javax.validation</groupId>
+            <artifactId>validation-api</artifactId>
+            <version>2.0.1.Final</version> <!-- 或者是更高版本 -->
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>13.0</version> <!-- 或者是更高版本 -->
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>
