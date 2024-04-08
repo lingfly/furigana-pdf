@@ -19,7 +19,7 @@ public class Markdown2Markji {
     final static String example = "* ";
 
     public static void main(String[] args) throws IOException {
-        Scanner in = new Scanner(new File("D:\\Note\\Japanese\\蓝宝书\\N5\\6.第六单元-并列助词、提示助词.md"));
+        Scanner in = new Scanner(new File("D:\\Note\\Japanese\\蓝宝书\\N5\\9.第九单元-常用表达方式.md"));
         StringBuilder sb = new StringBuilder();
         while (in.hasNextLine()) {
             String line = in.nextLine();
