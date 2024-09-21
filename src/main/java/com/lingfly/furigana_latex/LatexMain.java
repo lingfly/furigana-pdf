@@ -9,6 +9,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.*;
 
+/**
+ * 读取日语原文，调用雅虎api生成振假名，转换为什么latex格式
+ */
+
 public class LatexMain {
     private static final int grade = 1;
     public static void main(String[] args) throws FileNotFoundException {
@@ -19,6 +23,9 @@ public class LatexMain {
         main.output(text.toString());
     }
 
+    /**
+     * 读取日语原文
+     */
     List<String> input() throws FileNotFoundException {
         Scanner in = new Scanner(new File("src/main/resources/in.txt"));
         List<String> input = new ArrayList<>();
@@ -34,6 +41,9 @@ public class LatexMain {
         return input;
     }
 
+    /**
+     * latex结果写出到文件
+     */
     void output(String text) throws FileNotFoundException {
         PrintWriter writer = new PrintWriter("src/main/resources/out.tex");
         writer.println(text);
@@ -93,6 +103,10 @@ public class LatexMain {
         return words;
     }
 
+
+    /**
+     * 调用api生成振假名
+     */
     List<Word> doGetWord(String text) {
         StringBuilder response = new StringBuilder();
         try {

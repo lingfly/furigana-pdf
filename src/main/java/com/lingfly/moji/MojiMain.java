@@ -9,6 +9,9 @@ import com.lingfly.markji.MarkJiMain;
 import java.io.IOException;
 import java.util.*;
 
+/**
+ * 爬取moji收藏夹的单词，转为markji的导入格式
+ */
 public class MojiMain {
     final static int PAGE_COUNT = 50; // 页大小
     final static int PAGE_INDEX = 1;  // 初始页

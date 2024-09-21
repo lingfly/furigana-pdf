@@ -1,0 +1,48 @@
+% !TeX encoding = UTF-8
+% !TeX program = LuaLaTeX
+
+\documentclass[12pt,a4paper,oneside,openany]{book}
+
+\usepackage{luatexja-ruby}       %假名标注
+\usepackage{xcolor}			 %引入颜色
+\usepackage[hidelinks]{hyperref} %给目录添加超链接
+\usepackage{titlesec}
+\usepackage{indentfirst}         %章节首页首行缩进
+
+
+% 自定义章节标题样式，调整默认垂直间距
+\titleformat{\chapter}       	 % 要格式化的章节命令，如 \chapter、\section、\subsection 等。
+[hang]                       	 % 标题的形状，可以是 hang（悬挂格式，默认）、block（块格式）
+{\normalfont\Huge\bfseries}   	 % format,标题的整体格式，可以包括字体、大小、粗细等
+{Chapter\thechapter}          	 % label,标题编号的格式，如 \thechapter、\thesection 等。
+{1em}                         	 % Spacing between label and title
+{}
+
+\headheight = 13pt           	 % 页眉高度
+\headsep = 30pt		        	 % 页眉和正文的间距
+\topmargin = -30pt               % 页眉和页面顶端的间距
+\titlespacing{\chapter}{0pt}{-60pt}{10pt} % 调整标题间距
+\textheight = 700pt              % 正文高度
+\textwidth = 300pt 			 % 正文宽度
+\setlength{\hoffset}{-20pt}      % 正文向左偏移20pt
+
+\ltjsetruby{size=0.6}            %设置振假名字号
+%\ltjsetruby{fontcmd=\gtfamily}  %设置振假名字体
+\ltjsetruby{mode=00}             %设置振假名的「進入」和「突出」模式
+
+%\setlength{\parindent}{2em}	 %首行缩进
+\marginparwidth = 72pt           %边栏宽度
+
+\linespread{2.0}			 %行距
+\selectfont
+
+% 边注
+\newcounter{num}[chapter]
+\newcommand{\translate}[2]{\addtocounter{num}{1} {\color{orange} #1\textsuperscript{\scriptsize \thenum}}\marginpar{\scriptsize \textsuperscript{\scriptsize \thenum} #2}}
+
+\begin{document}
+\tableofcontents
+
+トットちゃんは、もう、すっかり、みんなと\ruby{友達}{ともだち}になっていて、\ruby{前}{まえ}から、ずーっと\ruby{一緒}{いっしょ}にいるような気になっていた。だから、\ruby{帰}{かえ}り\ruby{道}{みち}に「\ruby{明日}{あした}も、\ruby{散歩}{さんぽ}にしよう!」と、みんなに大きい\ruby{声}{こえ}で\ruby{言}{い}った。
+
+\end{document}
