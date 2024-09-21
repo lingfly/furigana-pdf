@@ -10,10 +10,10 @@ import java.io.IOException;
 import java.util.*;
 
 public class MojiMain {
-    final static int PAGE_COUNT = 50;
-    final static int PAGE_INDEX = 13;
-    final static int PAGE_MAX = 16;
-    final static String FID = "3YgyQ4DuXT";
+    final static int PAGE_COUNT = 50; // 页大小
+    final static int PAGE_INDEX = 1;  // 初始页
+    final static int PAGE_MAX = 10;   // 最大页数
+    final static String FID = "zj0TjqOBzk"; // moji收藏夹id
 
 
     static Map<String, String> id2title = new HashMap<>();

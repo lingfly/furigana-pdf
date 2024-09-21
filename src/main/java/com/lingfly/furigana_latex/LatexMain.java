@@ -9,8 +9,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.*;
 
-public class Main {
-    private static final int grade = 2;
+public class LatexMain {
+    private static final int grade = 1;
     public static void main(String[] args) throws FileNotFoundException {
         LatexMain main = new LatexMain();
         List<String> input = main.input();

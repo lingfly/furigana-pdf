@@ -3,66 +3,79 @@
     "key": "1",
     "words": [
       {
-        "surface": "で"
+        "surface": "トット"
       },
       {
-        "surface": "、"
-      },
-      {
-        "furigana": "ふつう",
-        "roman": "hutuu",
-        "surface": "普通"
-      },
-      {
-        "surface": "なら"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "これ"
-      },
-      {
-        "surface": "で"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "「"
-      },
-      {
-        "surface": "いただき"
-      },
-      {
-        "surface": "まー"
-      },
-      {
-        "surface": "す"
-      },
-      {
-        "surface": "」"
+        "surface": "ちゃん"
       },
       {
         "surface": "に"
       },
       {
-        "surface": "なる"
-      },
-      {
-        "surface": "ん"
-      },
-      {
-        "surface": "だ"
-      },
-      {
-        "surface": "けど"
+        "surface": "は"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "この"
+        "furigana": "ほんとう",
+        "roman": "hontou",
+        "surface": "本当"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "あたらしい",
+        "roman": "atarasii",
+        "subword": [
+          {
+            "furigana": "あたら",
+            "roman": "atara",
+            "surface": "新"
+          },
+          {
+            "furigana": "しい",
+            "roman": "sii",
+            "surface": "しい"
+          }
+        ],
+        "surface": "新しい"
+      },
+      {
+        "furigana": "おどろき",
+        "roman": "odoroki",
+        "subword": [
+          {
+            "furigana": "おどろ",
+            "roman": "odoro",
+            "surface": "驚"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          }
+        ],
+        "surface": "驚き"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いっぱい"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "、"
       },
       {
         "surface": "トモエ"
@@ -73,13 +86,241 @@
         "surface": "学園"
       },
       {
-        "surface": "は"
+        "surface": "で"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "まいにち",
+        "roman": "mainiti",
+        "surface": "毎日"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "すぎ",
+        "roman": "sugi",
+        "subword": [
+          {
+            "furigana": "す",
+            "roman": "su",
+            "surface": "過"
+          },
+          {
+            "furigana": "ぎ",
+            "roman": "gi",
+            "surface": "ぎ"
+          }
+        ],
+        "surface": "過ぎ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "furigana": "あいかわらず",
+        "roman": "aikawarazu",
+        "subword": [
+          {
+            "furigana": "あいか",
+            "roman": "aika",
+            "surface": "相変"
+          },
+          {
+            "furigana": "わらず",
+            "roman": "warazu",
+            "surface": "わらず"
+          }
+        ],
+        "surface": "相変わらず"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "ここ"
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "はやく",
+        "roman": "hayaku",
+        "subword": [
+          {
+            "furigana": "はや",
+            "roman": "haya",
+            "surface": "早"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "早く"
+      },
+      {
+        "furigana": "いき",
+        "roman": "iki",
+        "subword": [
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "行"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          }
+        ],
+        "surface": "行き"
+      },
+      {
+        "surface": "たく"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "あさ",
+        "roman": "asa",
+        "surface": "朝"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "まち",
+        "roman": "mati",
+        "subword": [
+          {
+            "furigana": "ま",
+            "roman": "ma",
+            "surface": "待"
+          },
+          {
+            "furigana": "ち",
+            "roman": "ti",
+            "surface": "ち"
+          }
+        ],
+        "surface": "待ち"
+      },
+      {
+        "surface": "き"
+      },
+      {
+        "surface": "れ"
+      },
+      {
+        "surface": "なかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "そして"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かえっ",
+        "roman": "kaextu",
+        "subword": [
+          {
+            "furigana": "かえ",
+            "roman": "kae",
+            "surface": "帰"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "帰っ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "くる"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "いぬ",
+        "roman": "inu",
+        "surface": "犬"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "ロッキー"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ママ"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "パパ"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "furigana": "きょう",
+        "roman": "kyou",
+        "surface": "今日"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
       },
       {
         "surface": "で"
@@ -88,47 +329,496 @@
         "surface": "、"
       },
       {
-        "furigana": "がっしょう",
-        "roman": "gassyou",
-        "surface": "合唱"
+        "surface": "どんな"
+      },
+      {
+        "surface": "こと"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "どの"
+      },
+      {
+        "surface": "くらい"
+      },
+      {
+        "furigana": "おもしろかっ",
+        "roman": "omosirokaxtu",
+        "subword": [
+          {
+            "furigana": "おもしろ",
+            "roman": "omosiro",
+            "surface": "面白"
+          },
+          {
+            "furigana": "かっ",
+            "roman": "kaxtu",
+            "surface": "かっ"
+          }
+        ],
+        "surface": "面白かっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "とか"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "もう"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "びっくり"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "ちゃっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "とか"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "しまい"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ママ"
       },
       {
         "surface": "が"
       },
       {
-        "surface": "入る"
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "furigana": "はなし",
+        "roman": "hanasi",
+        "surface": "話"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ちょっと"
+      },
+      {
+        "furigana": "おやすみ",
+        "roman": "oyasumi",
+        "subword": [
+          {
+            "furigana": "お",
+            "roman": "o",
+            "surface": "お"
+          },
+          {
+            "furigana": "やす",
+            "roman": "yasu",
+            "surface": "休"
+          },
+          {
+            "furigana": "み",
+            "roman": "mi",
+            "surface": "み"
+          }
+        ],
+        "surface": "お休み"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "おやつ"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "たら"
+      },
+      {
+        "surface": "？"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いう"
+      },
+      {
+        "surface": "まで"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "はなし",
+        "roman": "hanasi",
+        "surface": "話"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "surface": "やめ"
+      },
+      {
+        "surface": "なかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "そして"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "これ"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "どんな"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "なれ",
+        "roman": "nare",
+        "subword": [
+          {
+            "furigana": "な",
+            "roman": "na",
+            "surface": "馴"
+          },
+          {
+            "furigana": "れ",
+            "roman": "re",
+            "surface": "れ"
+          }
+        ],
+        "surface": "馴れ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "surface": "やっぱり"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "まいにち",
+        "roman": "mainiti",
+        "surface": "毎日"
+      },
+      {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "はなす",
+        "roman": "hanasu",
+        "subword": [
+          {
+            "furigana": "はな",
+            "roman": "hana",
+            "surface": "話"
+          },
+          {
+            "furigana": "す",
+            "roman": "su",
+            "surface": "す"
+          }
+        ],
+        "surface": "話す"
+      },
+      {
+        "surface": "こと"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "やま",
+        "roman": "yama",
+        "surface": "山"
       },
       {
         "surface": "の"
       },
       {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "あっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "（"
+      },
+      {
+        "surface": "でも"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "こんなに"
+      },
+      {
+        "furigana": "はなす",
+        "roman": "hanasu",
+        "subword": [
+          {
+            "furigana": "はな",
+            "roman": "hana",
+            "surface": "話"
+          },
+          {
+            "furigana": "す",
+            "roman": "su",
+            "surface": "す"
+          }
+        ],
+        "surface": "話す"
+      },
+      {
+        "surface": "こと"
+      },
+      {
         "surface": "が"
       },
       {
+        "surface": "たくさん"
+      },
+      {
+        "surface": "ある"
+      },
+      {
+        "surface": "って"
+      },
+      {
+        "surface": "こと"
+      },
+      {
+        "surface": "は"
+      },
+      {
         "surface": "、"
       },
       {
-        "surface": "また"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "furigana": "かわっ",
-        "roman": "kawaxtu",
+        "furigana": "ありがたい",
+        "roman": "arigatai",
         "subword": [
           {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "変"
+            "furigana": "ありがた",
+            "roman": "arigata",
+            "surface": "有難"
           },
           {
-            "furigana": "わっ",
-            "roman": "waxtu",
-            "surface": "わっ"
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
           }
         ],
-        "surface": "変わっ"
+        "surface": "有難い"
+      },
+      {
+        "surface": "こと"
+      },
+      {
+        "surface": "）"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ママ"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こころから",
+        "roman": "kokorokara",
+        "subword": [
+          {
+            "furigana": "こころ",
+            "roman": "kokoro",
+            "surface": "心"
+          },
+          {
+            "furigana": "から",
+            "roman": "kara",
+            "surface": "から"
+          }
+        ],
+        "surface": "心から"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "うれしく",
+        "roman": "uresiku",
+        "subword": [
+          {
+            "furigana": "うれ",
+            "roman": "ure",
+            "surface": "嬉"
+          },
+          {
+            "furigana": "しく",
+            "roman": "siku",
+            "surface": "しく"
+          }
+        ],
+        "surface": "嬉しく"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "思っ"
       },
       {
         "surface": "て"
@@ -143,12 +833,30 @@
         "surface": "。"
       },
       {
-        "furigana": "こうちょう",
-        "roman": "koutyou",
-        "surface": "校長"
+        "furigana": "あるひ",
+        "roman": "aruhi",
+        "subword": [
+          {
+            "furigana": "ある",
+            "roman": "aru",
+            "surface": "ある"
+          },
+          {
+            "furigana": "ひ",
+            "roman": "hi",
+            "surface": "日"
+          }
+        ],
+        "surface": "ある日"
       },
       {
-        "surface": "先生"
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
       },
       {
         "surface": "は"
@@ -157,15 +865,770 @@
         "surface": "、"
       },
       {
-        "furigana": "おんがくか",
-        "roman": "ongakuka",
-        "surface": "音楽家"
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
       },
       {
-        "surface": "でも"
+        "surface": "に"
+      },
+      {
+        "furigana": "いく",
+        "roman": "iku",
+        "subword": [
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "行"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "行く"
+      },
+      {
+        "furigana": "でんしゃ",
+        "roman": "densya",
+        "surface": "電車"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "なか",
+        "roman": "naka",
+        "surface": "中"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "とつぜん",
+        "roman": "totuzen",
+        "surface": "突然"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "あれ"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "オモエ"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "って"
+      },
+      {
+        "surface": "、"
       },
       {
         "surface": "あっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "かな"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "かんがえ",
+        "roman": "kangae",
+        "subword": [
+          {
+            "furigana": "かんが",
+            "roman": "kanga",
+            "surface": "考"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "考え"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "思っ"
+      },
+      {
+        "surface": "たら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "もう"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "はやく",
+        "roman": "hayaku",
+        "subword": [
+          {
+            "furigana": "はや",
+            "roman": "haya",
+            "surface": "早"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "早く"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "つき",
+        "roman": "tuki",
+        "subword": [
+          {
+            "furigana": "つ",
+            "roman": "tu",
+            "surface": "着"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          }
+        ],
+        "surface": "着き"
+      },
+      {
+        "surface": "たく"
+      },
+      {
+        "surface": "なっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "まだ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "あと"
+      },
+      {
+        "furigana": "ふたつ",
+        "roman": "hutatu",
+        "subword": [
+          {
+            "furigana": "ふた",
+            "roman": "huta",
+            "surface": "二"
+          },
+          {
+            "furigana": "つ",
+            "roman": "tu",
+            "surface": "つ"
+          }
+        ],
+        "surface": "二つ"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "furigana": "えき",
+        "roman": "eki",
+        "surface": "駅"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "ある"
+      },
+      {
+        "surface": "のに"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ドア"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "ところ"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "たっ",
+        "roman": "taxtu",
+        "subword": [
+          {
+            "furigana": "た",
+            "roman": "ta",
+            "surface": "立"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "立っ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "じゆうがおか",
+        "roman": "ziyuugaoka",
+        "subword": [
+          {
+            "furigana": "じゆう",
+            "roman": "ziyuu",
+            "surface": "自由"
+          },
+          {
+            "furigana": "が",
+            "roman": "ga",
+            "surface": "が"
+          },
+          {
+            "furigana": "おか",
+            "roman": "oka",
+            "surface": "丘"
+          }
+        ],
+        "surface": "自由が丘"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "でんしゃ",
+        "roman": "densya",
+        "surface": "電車"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "つい",
+        "roman": "tui",
+        "subword": [
+          {
+            "furigana": "つ",
+            "roman": "tu",
+            "surface": "着"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "着い"
+      },
+      {
+        "surface": "たら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "すぐ"
+      },
+      {
+        "furigana": "で",
+        "roman": "de",
+        "surface": "出"
+      },
+      {
+        "surface": "られる"
+      },
+      {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ヨーイ"
+      },
+      {
+        "surface": "・"
+      },
+      {
+        "surface": "ドン"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "かっこう",
+        "roman": "kakkou",
+        "surface": "格好"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "furigana": "まっ",
+        "roman": "maxtu",
+        "subword": [
+          {
+            "furigana": "ま",
+            "roman": "ma",
+            "surface": "待"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "待っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "ひとつ"
+      },
+      {
+        "furigana": "まえ",
+        "roman": "mae",
+        "surface": "前"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "えき",
+        "roman": "eki",
+        "surface": "駅"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ドア"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "ひらい",
+        "roman": "hirai",
+        "subword": [
+          {
+            "furigana": "ひら",
+            "roman": "hira",
+            "surface": "開"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "開い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "とき"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "のりこも",
+        "roman": "norikomo",
+        "subword": [
+          {
+            "furigana": "の",
+            "roman": "no",
+            "surface": "乗"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          },
+          {
+            "furigana": "こ",
+            "roman": "ko",
+            "surface": "込"
+          },
+          {
+            "furigana": "も",
+            "roman": "mo",
+            "surface": "も"
+          }
+        ],
+        "surface": "乗り込も"
+      },
+      {
+        "surface": "う"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "おばさん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "おんなのこ",
+        "roman": "onnanoko",
+        "subword": [
+          {
+            "furigana": "おんな",
+            "roman": "onna",
+            "surface": "女"
+          },
+          {
+            "furigana": "の",
+            "roman": "no",
+            "surface": "の"
+          },
+          {
+            "furigana": "こ",
+            "roman": "ko",
+            "surface": "子"
+          }
+        ],
+        "surface": "女の子"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ドア"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "ところ"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ヨーイ"
+      },
+      {
+        "surface": "・"
+      },
+      {
+        "surface": "ドン"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "かたち",
+        "roman": "katati",
+        "surface": "形"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "なっ"
+      },
+      {
+        "surface": "てる"
+      },
+      {
+        "surface": "ので"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "おりる",
+        "roman": "oriru",
+        "subword": [
+          {
+            "furigana": "お",
+            "roman": "o",
+            "surface": "降"
+          },
+          {
+            "furigana": "りる",
+            "roman": "riru",
+            "surface": "りる"
+          }
+        ],
+        "surface": "降りる"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "か"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "思っ"
+      },
+      {
+        "surface": "たら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "そのまま"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "かたち",
+        "roman": "katati",
+        "surface": "形"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "furigana": "うごか",
+        "roman": "ugoka",
+        "subword": [
+          {
+            "furigana": "うご",
+            "roman": "ugo",
+            "surface": "動"
+          },
+          {
+            "furigana": "か",
+            "roman": "ka",
+            "surface": "か"
+          }
+        ],
+        "surface": "動か"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "ので"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "どう"
+      },
+      {
+        "surface": "なっ"
+      },
+      {
+        "surface": "ちゃっ"
+      },
+      {
+        "surface": "てる"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "か"
+      },
+      {
+        "surface": "ね"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いい"
+      },
+      {
+        "surface": "ながら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "のりこん",
+        "roman": "norikon",
+        "subword": [
+          {
+            "furigana": "の",
+            "roman": "no",
+            "surface": "乗"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          },
+          {
+            "furigana": "こ",
+            "roman": "ko",
+            "surface": "込"
+          },
+          {
+            "furigana": "ん",
+            "roman": "n",
+            "surface": "ん"
+          }
+        ],
+        "surface": "乗り込ん"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "き"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "こんな"
+      },
+      {
+        "furigana": "ぐあい",
+        "roman": "guai",
+        "surface": "具合"
+      },
+      {
+        "surface": "だっ"
       },
       {
         "surface": "た"
@@ -177,61 +1640,837 @@
         "surface": "、"
       },
       {
-        "surface": "『"
-      },
-      {
-        "furigana": "おべんとう",
-        "roman": "obentou",
-        "subword": [
-          {
-            "furigana": "お",
-            "roman": "o",
-            "surface": "お"
-          },
-          {
-            "furigana": "べんとう",
-            "roman": "bentou",
-            "surface": "弁当"
-          }
-        ],
-        "surface": "お弁当"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "furigana": "たべる",
-        "roman": "taberu",
-        "subword": [
-          {
-            "furigana": "た",
-            "roman": "ta",
-            "surface": "食"
-          },
-          {
-            "furigana": "べる",
-            "roman": "beru",
-            "surface": "べる"
-          }
-        ],
-        "surface": "食べる"
-      },
-      {
-        "furigana": "まえ",
-        "roman": "mae",
-        "surface": "前"
+        "furigana": "えき",
+        "roman": "eki",
+        "surface": "駅"
       },
       {
         "surface": "に"
       },
       {
-        "furigana": "うたう",
-        "roman": "utau",
+        "furigana": "つい",
+        "roman": "tui",
         "subword": [
           {
-            "furigana": "うた",
-            "roman": "uta",
-            "surface": "歌"
+            "furigana": "つ",
+            "roman": "tu",
+            "surface": "着"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "着い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "とき"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "はやく",
+        "roman": "hayaku",
+        "subword": [
+          {
+            "furigana": "はや",
+            "roman": "haya",
+            "surface": "早"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "早く"
+      },
+      {
+        "furigana": "おり",
+        "roman": "ori",
+        "subword": [
+          {
+            "furigana": "お",
+            "roman": "o",
+            "surface": "降"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          }
+        ],
+        "surface": "降り"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "こと"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "たら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "なかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "furigana": "わかい",
+        "roman": "wakai",
+        "subword": [
+          {
+            "furigana": "わか",
+            "roman": "waka",
+            "surface": "若"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "若い"
+      },
+      {
+        "furigana": "おとこ",
+        "roman": "otoko",
+        "surface": "男"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "しゃしょう",
+        "roman": "syasyou",
+        "surface": "車掌"
+      },
+      {
+        "surface": "さん"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "しゃれ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "ポーズ"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "まだ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かんぜん",
+        "roman": "kanzen",
+        "surface": "完全"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "とまっ",
+        "roman": "tomaxtu",
+        "subword": [
+          {
+            "furigana": "と",
+            "roman": "to",
+            "surface": "止"
+          },
+          {
+            "furigana": "まっ",
+            "roman": "maxtu",
+            "surface": "まっ"
+          }
+        ],
+        "surface": "止まっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "い"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "furigana": "でんしゃ",
+        "roman": "densya",
+        "surface": "電車"
+      },
+      {
+        "surface": "から"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "プラットホーム"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "かたあし",
+        "roman": "kataasi",
+        "surface": "片足"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "surface": "つけ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "おり"
+      },
+      {
+        "surface": "ながら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "furigana": "じゆうがおか",
+        "roman": "ziyuugaoka",
+        "subword": [
+          {
+            "furigana": "じゆう",
+            "roman": "ziyuu",
+            "surface": "自由"
+          },
+          {
+            "furigana": "が",
+            "roman": "ga",
+            "surface": "が"
+          },
+          {
+            "furigana": "おか",
+            "roman": "oka",
+            "surface": "丘"
+          }
+        ],
+        "surface": "自由が丘"
+      },
+      {
+        "surface": "!"
+      },
+      {
+        "surface": "お"
+      },
+      {
+        "furigana": "ふり",
+        "roman": "huri",
+        "subword": [
+          {
+            "furigana": "ふ",
+            "roman": "hu",
+            "surface": "降"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          }
+        ],
+        "surface": "降り"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "ほう",
+        "roman": "hou",
+        "surface": "方"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "…"
+      },
+      {
+        "surface": "…"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "とき"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "もう"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "すがた",
+        "roman": "sugata",
+        "surface": "姿"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かいさつぐち",
+        "roman": "kaisatuguti",
+        "surface": "改札口"
+      },
+      {
+        "surface": "から"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "みえ",
+        "roman": "mie",
+        "subword": [
+          {
+            "furigana": "み",
+            "roman": "mi",
+            "surface": "見"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "見え"
+      },
+      {
+        "surface": "なく"
+      },
+      {
+        "surface": "なっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "つい",
+        "roman": "tui",
+        "subword": [
+          {
+            "furigana": "つ",
+            "roman": "tu",
+            "surface": "着"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "着い"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "でんしゃ",
+        "roman": "densya",
+        "surface": "電車"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "きょうしつ",
+        "roman": "kyousitu",
+        "surface": "教室"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "はいる",
+        "roman": "hairu",
+        "subword": [
+          {
+            "furigana": "はい",
+            "roman": "hai",
+            "surface": "入"
+          },
+          {
+            "furigana": "る",
+            "roman": "ru",
+            "surface": "る"
+          }
+        ],
+        "surface": "入る"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "さきに",
+        "roman": "sakini",
+        "subword": [
+          {
+            "furigana": "さき",
+            "roman": "saki",
+            "surface": "先"
+          },
+          {
+            "furigana": "に",
+            "roman": "ni",
+            "surface": "に"
+          }
+        ],
+        "surface": "先に"
+      },
+      {
+        "furigana": "き",
+        "roman": "ki",
+        "surface": "来"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "やまうち",
+        "roman": "yamauti",
+        "surface": "山内"
+      },
+      {
+        "furigana": "たいじ",
+        "roman": "taizi",
+        "surface": "泰二"
+      },
+      {
+        "furigana": "くん",
+        "roman": "kun",
+        "surface": "君"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "すぐ"
+      },
+      {
+        "furigana": "きい",
+        "roman": "kii",
+        "subword": [
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "聞"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "聞い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ねえ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "タイ"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "この"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "って"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "ある"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "furigana": "ぶつり",
+        "roman": "buturi",
+        "surface": "物理"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "すき",
+        "roman": "suki",
+        "subword": [
+          {
+            "furigana": "す",
+            "roman": "su",
+            "surface": "好"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          }
+        ],
+        "surface": "好き"
+      },
+      {
+        "surface": "な"
+      },
+      {
+        "surface": "タイ"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "とても"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かんがえ",
+        "roman": "kangae",
+        "subword": [
+          {
+            "furigana": "かんが",
+            "roman": "kanga",
+            "surface": "考"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "考え"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "surface": "な"
+      },
+      {
+        "furigana": "こえ",
+        "roman": "koe",
+        "surface": "声"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "furigana": "こたえ",
+        "roman": "kotae",
+        "subword": [
+          {
+            "furigana": "こた",
+            "roman": "kota",
+            "surface": "答"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "答え"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "ん"
+      },
+      {
+        "surface": "じゃ"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "かな"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ふーん"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "すこし",
+        "roman": "sukosi",
+        "subword": [
+          {
+            "furigana": "すこ",
+            "roman": "suko",
+            "surface": "少"
+          },
+          {
+            "furigana": "し",
+            "roman": "si",
+            "surface": "し"
+          }
+        ],
+        "surface": "少し"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "もったい"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "surface": "つけ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "それから"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "あっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "ほう"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いい"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "おもう",
+        "roman": "omou",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
           },
           {
             "furigana": "う",
@@ -239,27 +2478,878 @@
             "surface": "う"
           }
         ],
-        "surface": "歌う"
+        "surface": "思う"
       },
       {
-        "furigana": "うた",
-        "roman": "uta",
-        "surface": "歌"
+        "surface": "ん"
       },
       {
-        "surface": "』"
+        "surface": "だ"
       },
       {
-        "surface": "と"
+        "surface": "。"
       },
       {
-        "surface": "いう"
+        "furigana": "まえ",
+        "roman": "mae",
+        "surface": "前"
       },
       {
         "surface": "の"
       },
       {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "なんて"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "すごい"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "あっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "ん"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "から"
+      },
+      {
+        "surface": "!"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "おおきな",
+        "roman": "ookina",
+        "subword": [
+          {
+            "furigana": "おお",
+            "roman": "oo",
+            "surface": "大"
+          },
+          {
+            "furigana": "きな",
+            "roman": "kina",
+            "surface": "きな"
+          }
+        ],
+        "surface": "大きな"
+      },
+      {
+        "furigana": "こえ",
+        "roman": "koe",
+        "surface": "声"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "furigana": "うたいはじめ",
+        "roman": "utaihazime",
+        "subword": [
+          {
+            "furigana": "うた",
+            "roman": "uta",
+            "surface": "歌"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          },
+          {
+            "furigana": "はじ",
+            "roman": "hazi",
+            "surface": "始"
+          },
+          {
+            "furigana": "め",
+            "roman": "me",
+            "surface": "め"
+          }
+        ],
+        "surface": "歌い始め"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "せんぞく"
+      },
+      {
+        "surface": "いけ"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "あさ"
+      },
+      {
+        "surface": "けれ"
+      },
+      {
+        "surface": "ど"
+      },
+      {
+        "surface": "いじん"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "むね"
+      },
+      {
         "surface": "を"
+      },
+      {
+        "surface": "ふかく"
+      },
+      {
+        "surface": "くみ"
+      },
+      {
+        "surface": "（"
+      },
+      {
+        "furigana": "せんぞくいけ",
+        "roman": "senzokuike",
+        "surface": "洗足池"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "furigana": "あさけれ",
+        "roman": "asakere",
+        "subword": [
+          {
+            "furigana": "あさ",
+            "roman": "asa",
+            "surface": "浅"
+          },
+          {
+            "furigana": "けれ",
+            "roman": "kere",
+            "surface": "けれ"
+          }
+        ],
+        "surface": "浅けれ"
+      },
+      {
+        "surface": "ど"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "いじん",
+        "roman": "izin",
+        "surface": "偉人"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "むね",
+        "roman": "mune",
+        "surface": "胸"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "ふかく",
+        "roman": "hukaku",
+        "subword": [
+          {
+            "furigana": "ふか",
+            "roman": "huka",
+            "surface": "深"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "深く"
+      },
+      {
+        "furigana": "くみ",
+        "roman": "kumi",
+        "subword": [
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "汲"
+          },
+          {
+            "furigana": "み",
+            "roman": "mi",
+            "surface": "み"
+          }
+        ],
+        "surface": "汲み"
+      },
+      {
+        "surface": "）"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "これ"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "まえ"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "ほんの"
+      },
+      {
+        "furigana": "すこし",
+        "roman": "sukosi",
+        "subword": [
+          {
+            "furigana": "すこ",
+            "roman": "suko",
+            "surface": "少"
+          },
+          {
+            "furigana": "し",
+            "roman": "si",
+            "surface": "し"
+          }
+        ],
+        "surface": "少し"
+      },
+      {
+        "surface": "しか"
+      },
+      {
+        "furigana": "かよわ",
+        "roman": "kayowa",
+        "subword": [
+          {
+            "furigana": "かよ",
+            "roman": "kayo",
+            "surface": "通"
+          },
+          {
+            "furigana": "わ",
+            "roman": "wa",
+            "surface": "わ"
+          }
+        ],
+        "surface": "通わ"
+      },
+      {
+        "surface": "なかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "いちねんせい",
+        "roman": "itinensei",
+        "surface": "一年生"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "むずかしい",
+        "roman": "muzukasii",
+        "subword": [
+          {
+            "furigana": "むずか",
+            "roman": "muzuka",
+            "surface": "難"
+          },
+          {
+            "furigana": "しい",
+            "roman": "sii",
+            "surface": "しい"
+          }
+        ],
+        "surface": "難しい"
+      },
+      {
+        "furigana": "ことば",
+        "roman": "kotoba",
+        "surface": "言葉"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "けど"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ちゃんと"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "おぼえ",
+        "roman": "oboe",
+        "subword": [
+          {
+            "furigana": "おぼ",
+            "roman": "obo",
+            "surface": "覚"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "覚え"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "い"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "（"
+      },
+      {
+        "surface": "ただし"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "この"
+      },
+      {
+        "furigana": "ぶぶん",
+        "roman": "bubun",
+        "surface": "部分"
+      },
+      {
+        "surface": "だけ"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "けど"
+      },
+      {
+        "surface": "）"
+      },
+      {
+        "furigana": "ききおわる",
+        "roman": "kikiowaru",
+        "subword": [
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "聞"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          },
+          {
+            "furigana": "お",
+            "roman": "o",
+            "surface": "終"
+          },
+          {
+            "furigana": "わる",
+            "roman": "waru",
+            "surface": "わる"
+          }
+        ],
+        "surface": "聞き終わる"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "たい",
+        "roman": "tai",
+        "surface": "泰"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "すこし",
+        "roman": "sukosi",
+        "subword": [
+          {
+            "furigana": "すこ",
+            "roman": "suko",
+            "surface": "少"
+          },
+          {
+            "furigana": "し",
+            "roman": "si",
+            "surface": "し"
+          }
+        ],
+        "surface": "少し"
+      },
+      {
+        "furigana": "かんしん",
+        "roman": "kansin",
+        "surface": "感心"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "あたま",
+        "roman": "atama",
+        "surface": "頭"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "surface": "二"
+      },
+      {
+        "furigana": "かい",
+        "roman": "kai",
+        "surface": "回"
+      },
+      {
+        "surface": "くらい"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かるく",
+        "roman": "karuku",
+        "subword": [
+          {
+            "furigana": "かる",
+            "roman": "karu",
+            "surface": "軽"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "軽く"
+      },
+      {
+        "furigana": "ふる",
+        "roman": "huru",
+        "subword": [
+          {
+            "furigana": "ふ",
+            "roman": "hu",
+            "surface": "振"
+          },
+          {
+            "furigana": "る",
+            "roman": "ru",
+            "surface": "る"
+          }
+        ],
+        "surface": "振る"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ふーん"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "その"
+      },
+      {
+        "furigana": "ころ",
+        "roman": "koro",
+        "surface": "頃"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "ほか",
+        "roman": "hoka",
+        "surface": "他"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "せいと",
+        "roman": "seito",
+        "surface": "生徒"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "furigana": "き",
+        "roman": "ki",
+        "surface": "着"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "い"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "むずかしい",
+        "roman": "muzukasii",
+        "subword": [
+          {
+            "furigana": "むずか",
+            "roman": "muzuka",
+            "surface": "難"
+          },
+          {
+            "furigana": "しい",
+            "roman": "sii",
+            "surface": "しい"
+          }
+        ],
+        "surface": "難しい"
+      },
+      {
+        "furigana": "ことば",
+        "roman": "kotoba",
+        "surface": "言葉"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "そんけい",
+        "roman": "sonkei",
+        "surface": "尊敬"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "あこがれ",
+        "roman": "akogare",
+        "subword": [
+          {
+            "furigana": "あこが",
+            "roman": "akoga",
+            "surface": "憧"
+          },
+          {
+            "furigana": "れ",
+            "roman": "re",
+            "surface": "れ"
+          }
+        ],
+        "surface": "憧れ"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "もっ",
+        "roman": "moxtu",
+        "subword": [
+          {
+            "furigana": "も",
+            "roman": "mo",
+            "surface": "持"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "持っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "らしく"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ふーん"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "ねえ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こうちょう",
+        "roman": "koutyou",
+        "surface": "校長"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "、"
       },
       {
         "furigana": "つくっ",
@@ -279,39 +3369,108 @@
         "surface": "作っ"
       },
       {
+        "surface": "て"
+      },
+      {
+        "surface": "もらお"
+      },
+      {
+        "surface": "う"
+      },
+      {
+        "surface": "よ"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "思っ"
+      },
+      {
         "surface": "た"
       },
       {
-        "surface": "。"
+        "surface": "ところ"
       },
       {
-        "surface": "ただし"
+        "surface": "だっ"
       },
       {
-        "surface": "、"
+        "surface": "た"
       },
       {
-        "surface": "これ"
-      },
-      {
-        "surface": "は"
+        "surface": "から"
       },
       {
         "surface": "、"
       },
       {
-        "furigana": "さっきょく",
-        "roman": "sakkyoku",
-        "surface": "作曲"
+        "surface": "「"
       },
       {
-        "surface": "が"
+        "surface": "そう"
+      },
+      {
+        "surface": "しよ"
+      },
+      {
+        "surface": "う"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "イギリス人"
+        "surface": "そう"
+      },
+      {
+        "surface": "しよ"
+      },
+      {
+        "surface": "う"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "みんな"
       },
       {
         "surface": "で"
@@ -320,18 +3479,7 @@
         "surface": "、"
       },
       {
-        "furigana": "かし",
-        "roman": "kasi",
-        "surface": "歌詞"
-      },
-      {
-        "surface": "だけ"
-      },
-      {
-        "surface": "が"
-      },
-      {
-        "surface": "、"
+        "surface": "ゾロゾロ"
       },
       {
         "furigana": "こうちょう",
@@ -339,7 +3487,305 @@
         "surface": "校長"
       },
       {
+        "furigana": "しつ",
+        "roman": "situ",
+        "surface": "室"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "いっ",
+        "roman": "ixtu",
+        "subword": [
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "行"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "行っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "furigana": "こうちょう",
+        "roman": "koutyou",
+        "surface": "校長"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
         "surface": "先生"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "うた",
+        "roman": "uta",
+        "surface": "歌"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "きき",
+        "roman": "kiki",
+        "subword": [
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "聞"
+          },
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "き"
+          }
+        ],
+        "surface": "聞き"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "きぼう",
+        "roman": "kibou",
+        "surface": "希望"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "きく",
+        "roman": "kiku",
+        "subword": [
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "聞"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "聞く"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "よし"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "じゃ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "あした",
+        "roman": "asita",
+        "surface": "明日"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "あさ",
+        "roman": "asa",
+        "surface": "朝"
+      },
+      {
+        "surface": "まで"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "つくっ",
+        "roman": "tukuxtu",
+        "subword": [
+          {
+            "furigana": "つく",
+            "roman": "tuku",
+            "surface": "作"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "作っ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "おく"
+      },
+      {
+        "surface": "よ"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "furigana": "やくそく",
+        "roman": "yakusoku",
+        "surface": "約束"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "よ"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "また"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ゾロゾロ"
+      },
+      {
+        "furigana": "きょうしつ",
+        "roman": "kyousitu",
+        "surface": "教室"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "もどっ",
+        "roman": "modoxtu",
+        "subword": [
+          {
+            "furigana": "もど",
+            "roman": "modo",
+            "surface": "戻"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "戻っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "さて"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "つぎ",
+        "roman": "tugi",
+        "surface": "次"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "ひ",
+        "roman": "hi",
+        "surface": "日"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "あさ",
+        "roman": "asa",
+        "surface": "朝"
       },
       {
         "surface": "だっ"
@@ -351,30 +3797,94 @@
         "surface": "。"
       },
       {
+        "furigana": "かく",
+        "roman": "kaku",
+        "surface": "各"
+      },
+      {
+        "furigana": "きょうしつ",
+        "roman": "kyousitu",
+        "surface": "教室"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こうちょう",
+        "roman": "koutyou",
+        "surface": "校長"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "から"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "“"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こうてい",
+        "roman": "koutei",
+        "surface": "校庭"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "あつまる",
+        "roman": "atumaru",
+        "subword": [
+          {
+            "furigana": "あつ",
+            "roman": "atu",
+            "surface": "集"
+          },
+          {
+            "furigana": "まる",
+            "roman": "maru",
+            "surface": "まる"
+          }
+        ],
+        "surface": "集まる"
+      },
+      {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "”"
+      },
+      {
         "surface": "と"
       },
       {
         "surface": "いう"
       },
       {
-        "surface": "より"
-      },
-      {
         "surface": "、"
       },
       {
-        "furigana": "ほんとう",
-        "roman": "hontou",
-        "surface": "本当"
+        "surface": "ことづけ"
       },
       {
-        "surface": "は"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "もともと"
+        "surface": "が"
       },
       {
         "surface": "あっ"
@@ -383,96 +3893,18 @@
         "surface": "た"
       },
       {
-        "furigana": "きょく",
-        "roman": "kyoku",
-        "surface": "曲"
-      },
-      {
-        "surface": "に"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "先生"
-      },
-      {
-        "surface": "が"
-      },
-      {
-        "furigana": "かえうた",
-        "roman": "kaeuta",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "替"
-          },
-          {
-            "furigana": "え",
-            "roman": "e",
-            "surface": "え"
-          },
-          {
-            "furigana": "うた",
-            "roman": "uta",
-            "surface": "歌"
-          }
-        ],
-        "surface": "替え歌"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": "つけ"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "いう"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "surface": "が"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "正しい"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "surface": "だ"
-      },
-      {
-        "surface": "けれど"
-      },
-      {
         "surface": "。"
       },
       {
-        "surface": "もともと"
+        "surface": "トット"
       },
       {
-        "surface": "の"
+        "surface": "ちゃん"
       },
       {
-        "furigana": "きょく",
-        "roman": "kyoku",
-        "surface": "曲"
+        "furigana": "たち",
+        "roman": "tati",
+        "surface": "達"
       },
       {
         "surface": "は"
@@ -481,173 +3913,64 @@
         "surface": "、"
       },
       {
-        "surface": "あの"
-      },
-      {
-        "furigana": "ゆうめい",
-        "roman": "yuumei",
-        "surface": "有名"
-      },
-      {
-        "surface": "な"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "『"
-      },
-      {
-        "furigana": "ふね",
-        "roman": "hune",
-        "surface": "船"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": "こげ"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": "（"
-      },
-      {
-        "surface": "Row"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "Boat"
-      },
-      {
-        "surface": "）"
-      },
-      {
-        "surface": "』"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ユアー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ボート"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ジェントリー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ダウン"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ザ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ストゥリーム"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "メリリー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "メリリー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "メリリー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "メリリー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ライス"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "イズ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "バット"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ア"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ドリーム"
+        "furigana": "きたい",
+        "roman": "kitai",
+        "surface": "期待"
       },
       {
         "surface": "で"
       },
       {
+        "surface": "むね"
+      },
+      {
+        "surface": "を"
+      },
+      {
         "surface": "、"
       },
       {
-        "surface": "これ"
+        "surface": "ワクワク"
+      },
+      {
+        "surface": "さ"
+      },
+      {
+        "surface": "せ"
+      },
+      {
+        "surface": "ながら"
+      },
+      {
+        "furigana": "こうてい",
+        "roman": "koutei",
+        "surface": "校庭"
       },
       {
         "surface": "に"
+      },
+      {
+        "furigana": "あつまっ",
+        "roman": "atumaxtu",
+        "subword": [
+          {
+            "furigana": "あつ",
+            "roman": "atu",
+            "surface": "集"
+          },
+          {
+            "furigana": "まっ",
+            "roman": "maxtu",
+            "surface": "まっ"
+          }
+        ],
+        "surface": "集まっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
       },
       {
         "furigana": "こうちょう",
@@ -655,24 +3978,199 @@
         "surface": "校長"
       },
       {
+        "furigana": "せんせい",
+        "roman": "sensei",
         "surface": "先生"
       },
       {
-        "surface": "が"
+        "surface": "は"
       },
       {
-        "surface": "つけ"
+        "surface": "、"
+      },
+      {
+        "furigana": "こうてい",
+        "roman": "koutei",
+        "surface": "校庭"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "まんなか",
+        "roman": "mannaka",
+        "subword": [
+          {
+            "furigana": "ま",
+            "roman": "ma",
+            "surface": "真"
+          },
+          {
+            "furigana": "ん",
+            "roman": "n",
+            "surface": "ん"
+          },
+          {
+            "furigana": "なか",
+            "roman": "naka",
+            "surface": "中"
+          }
+        ],
+        "surface": "真ん中"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こくばん",
+        "roman": "kokuban",
+        "surface": "黒板"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "はこびだす",
+        "roman": "hakobidasu",
+        "subword": [
+          {
+            "furigana": "はこ",
+            "roman": "hako",
+            "surface": "運"
+          },
+          {
+            "furigana": "び",
+            "roman": "bi",
+            "surface": "び"
+          },
+          {
+            "furigana": "だ",
+            "roman": "da",
+            "surface": "出"
+          },
+          {
+            "furigana": "す",
+            "roman": "su",
+            "surface": "す"
+          }
+        ],
+        "surface": "運び出す"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いっ"
       },
       {
         "surface": "た"
       },
       {
-        "furigana": "かし",
-        "roman": "kasi",
-        "surface": "歌詞"
+        "surface": "。"
       },
       {
-        "surface": "は"
+        "surface": "「"
+      },
+      {
+        "surface": "いい"
+      },
+      {
+        "surface": "かい"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "きみ",
+        "roman": "kimi",
+        "surface": "君"
+      },
+      {
+        "furigana": "たち",
+        "roman": "tati",
+        "surface": "達"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トモエ"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "よ"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "そして"
+      },
+      {
+        "furigana": "こくばん",
+        "roman": "kokuban",
+        "surface": "黒板"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "五"
+      },
+      {
+        "furigana": "せん",
+        "roman": "sen",
+        "surface": "線"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "かく",
+        "roman": "kaku",
+        "subword": [
+          {
+            "furigana": "か",
+            "roman": "ka",
+            "surface": "書"
+          },
+          {
+            "furigana": "く",
+            "roman": "ku",
+            "surface": "く"
+          }
+        ],
+        "surface": "書く"
+      },
+      {
+        "surface": "と"
       },
       {
         "surface": "、"
@@ -695,7 +4193,33 @@
         "surface": "次のよう"
       },
       {
-        "surface": "だっ"
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "オタマジャクシ"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "ならべ",
+        "roman": "narabe",
+        "subword": [
+          {
+            "furigana": "なら",
+            "roman": "nara",
+            "surface": "並"
+          },
+          {
+            "furigana": "べ",
+            "roman": "be",
+            "surface": "べ"
+          }
+        ],
+        "surface": "並べ"
       },
       {
         "surface": "た"
@@ -704,217 +4228,88 @@
         "surface": "。"
       },
       {
-        "surface": " "
-      },
-      {
-        "surface": "よーく"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "たべもの"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
-      },
-      {
-        "surface": "よ"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "たべもの"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "そして"
+        "surface": "それから"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "これ"
+        "furigana": "こうちょう",
+        "roman": "koutyou",
+        "surface": "校長"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "て",
+        "roman": "te",
+        "surface": "手"
       },
       {
         "surface": "を"
       },
       {
-        "furigana": "うたいおわる",
-        "roman": "utaiowaru",
+        "furigana": "しきしゃ",
+        "roman": "sikisya",
+        "surface": "指揮者"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "よう"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "おおきく",
+        "roman": "ookiku",
         "subword": [
           {
-            "furigana": "うた",
-            "roman": "uta",
-            "surface": "歌"
+            "furigana": "おお",
+            "roman": "oo",
+            "surface": "大"
           },
           {
-            "furigana": "い",
-            "roman": "i",
-            "surface": "い"
-          },
-          {
-            "furigana": "お",
-            "roman": "o",
-            "surface": "終"
-          },
-          {
-            "furigana": "わる",
-            "roman": "waru",
-            "surface": "わる"
+            "furigana": "きく",
+            "roman": "kiku",
+            "surface": "きく"
           }
         ],
-        "surface": "歌い終わる"
+        "surface": "大きく"
+      },
+      {
+        "furigana": "あげる",
+        "roman": "ageru",
+        "subword": [
+          {
+            "furigana": "あ",
+            "roman": "a",
+            "surface": "上"
+          },
+          {
+            "furigana": "げる",
+            "roman": "geru",
+            "surface": "げる"
+          }
+        ],
+        "surface": "上げる"
       },
       {
         "surface": "と"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "furigana": "はじめて",
-        "roman": "hazimete",
-        "subword": [
-          {
-            "furigana": "はじ",
-            "roman": "hazi",
-            "surface": "初"
-          },
-          {
-            "furigana": "めて",
-            "roman": "mete",
-            "surface": "めて"
-          }
-        ],
-        "surface": "初めて"
       },
       {
         "surface": "、"
@@ -923,226 +4318,31 @@
         "surface": "「"
       },
       {
-        "surface": "いただき"
-      },
-      {
-        "surface": "まー"
-      },
-      {
-        "surface": "す"
-      },
-      {
-        "surface": "」"
-      },
-      {
-        "surface": "に"
-      },
-      {
-        "surface": "なる"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "surface": "だっ"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "。"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "“"
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ロー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ユアー"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "surface": "ボート"
-      },
-      {
-        "surface": "”"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "surface": "メロディー"
-      },
-      {
-        "surface": "に"
+        "surface": "さあ"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "“"
-      },
-      {
-        "surface": "よく"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "furigana": "かめ",
-        "roman": "kame",
+        "furigana": "いっしょに",
+        "roman": "issyoni",
         "subword": [
           {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
+            "furigana": "いっしょ",
+            "roman": "issyo",
+            "surface": "一緒"
           },
           {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
+            "furigana": "に",
+            "roman": "ni",
+            "surface": "に"
           }
         ],
-        "surface": "噛め"
+        "surface": "一緒に"
       },
       {
-        "surface": "よ"
-      },
-      {
-        "surface": "”"
-      },
-      {
-        "surface": "は"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "ぴったり"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "あっ"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "。"
-      },
-      {
-        "surface": "だから"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "この"
-      },
-      {
-        "surface": "学校"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "furigana": "そつぎょう",
-        "roman": "sotugyou",
-        "surface": "卒業"
-      },
-      {
-        "surface": "生"
-      },
-      {
-        "surface": "は"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "ずいぶん"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "大きく"
-      },
-      {
-        "surface": "なる"
-      },
-      {
-        "surface": "まで"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "この"
-      },
-      {
-        "surface": "メロディー"
-      },
-      {
-        "surface": "は"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "furigana": "おべんとう",
-        "roman": "obentou",
-        "subword": [
-          {
-            "furigana": "お",
-            "roman": "o",
-            "surface": "お"
-          },
-          {
-            "furigana": "べんとう",
-            "roman": "bentou",
-            "surface": "弁当"
-          }
-        ],
-        "surface": "お弁当"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "furigana": "まえ",
-        "roman": "mae",
-        "surface": "前"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "furigana": "うたう",
-        "roman": "utau",
+        "furigana": "うたお",
+        "roman": "utao",
         "subword": [
           {
             "furigana": "うた",
@@ -1150,58 +4350,273 @@
             "surface": "歌"
           },
           {
-            "furigana": "う",
-            "roman": "u",
-            "surface": "う"
+            "furigana": "お",
+            "roman": "o",
+            "surface": "お"
           }
         ],
-        "surface": "歌う"
+        "surface": "歌お"
       },
       {
-        "furigana": "うた",
-        "roman": "uta",
-        "surface": "歌"
+        "surface": "う"
       },
       {
-        "surface": "だ"
+        "surface": "!"
       },
       {
-        "surface": "、"
+        "surface": "」"
       },
       {
         "surface": "と"
       },
       {
-        "furigana": "しんじ",
-        "roman": "sinzi",
-        "subword": [
-          {
-            "furigana": "しん",
-            "roman": "sin",
-            "surface": "信"
-          },
-          {
-            "furigana": "じ",
-            "roman": "zi",
-            "surface": "じ"
-          }
-        ],
-        "surface": "信じ"
+        "surface": "いっ"
       },
       {
         "surface": "て"
       },
       {
-        "surface": "い"
+        "surface": "、"
+      },
+      {
+        "furigana": "て",
+        "roman": "te",
+        "surface": "手"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "ふり",
+        "roman": "huri",
+        "subword": [
+          {
+            "furigana": "ふ",
+            "roman": "hu",
+            "surface": "振"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          }
+        ],
+        "surface": "振り"
+      },
+      {
+        "furigana": "おろし",
+        "roman": "orosi",
+        "subword": [
+          {
+            "furigana": "お",
+            "roman": "o",
+            "surface": "下"
+          },
+          {
+            "furigana": "ろし",
+            "roman": "rosi",
+            "surface": "ろし"
+          }
+        ],
+        "surface": "下ろし"
       },
       {
         "surface": "た"
       },
       {
-        "surface": "くらい"
+        "surface": "。"
       },
       {
-        "surface": "だっ"
+        "furigana": "ぜんこう",
+        "roman": "zenkou",
+        "surface": "全校"
+      },
+      {
+        "furigana": "せいと",
+        "roman": "seito",
+        "surface": "生徒"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "五十"
+      },
+      {
+        "furigana": "にん",
+        "roman": "nin",
+        "surface": "人"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "みんな"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "こえ",
+        "roman": "koe",
+        "surface": "声"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "あわせ",
+        "roman": "awase",
+        "subword": [
+          {
+            "furigana": "あ",
+            "roman": "a",
+            "surface": "合"
+          },
+          {
+            "furigana": "わせ",
+            "roman": "wase",
+            "surface": "わせ"
+          }
+        ],
+        "surface": "合わせ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "うたっ",
+        "roman": "utaxtu",
+        "subword": [
+          {
+            "furigana": "うた",
+            "roman": "uta",
+            "surface": "歌"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "歌っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "トモエ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トモエ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トー"
+      },
+      {
+        "surface": "モエ"
+      },
+      {
+        "surface": "!"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "…"
+      },
+      {
+        "surface": "…"
+      },
+      {
+        "surface": "これだけ"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "ちょっと"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "furigana": "ま",
+        "roman": "ma",
+        "surface": "間"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "あっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "きい",
+        "roman": "kii",
+        "subword": [
+          {
+            "furigana": "き",
+            "roman": "ki",
+            "surface": "聞"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "聞い"
       },
       {
         "surface": "た"
@@ -1215,6 +4630,8 @@
         "surface": "校長"
       },
       {
+        "furigana": "せんせい",
+        "roman": "sensei",
         "surface": "先生"
       },
       {
@@ -1224,72 +4641,108 @@
         "surface": "、"
       },
       {
-        "furigana": "じぶん",
-        "roman": "zibun",
-        "surface": "自分"
+        "furigana": "とくい",
+        "roman": "tokui",
+        "surface": "得意"
       },
       {
-        "surface": "の"
+        "surface": "そう"
       },
       {
-        "furigana": "は",
-        "roman": "ha",
-        "surface": "歯"
+        "surface": "に"
       },
       {
-        "surface": "が"
-      },
-      {
-        "furigana": "ぬけ",
-        "roman": "nuke",
+        "furigana": "こたえ",
+        "roman": "kotae",
         "subword": [
           {
-            "furigana": "ぬ",
-            "roman": "nu",
-            "surface": "抜"
+            "furigana": "こた",
+            "roman": "kota",
+            "surface": "答"
           },
           {
-            "furigana": "け",
-            "roman": "ke",
-            "surface": "け"
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
           }
         ],
-        "surface": "抜け"
-      },
-      {
-        "surface": "て"
-      },
-      {
-        "surface": "い"
+        "surface": "答え"
       },
       {
         "surface": "た"
       },
       {
-        "surface": "ので"
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "よ"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "この"
+        "surface": "ひどく"
       },
       {
-        "furigana": "うた",
-        "roman": "uta",
-        "surface": "歌"
+        "surface": "、"
       },
       {
-        "surface": "を"
+        "surface": "がっかり"
       },
       {
-        "furigana": "つくっ",
-        "roman": "tukuxtu",
+        "surface": "し"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "furigana": "こえ",
+        "roman": "koe",
+        "surface": "声"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "いっ",
+        "roman": "ixtu",
         "subword": [
           {
-            "furigana": "つく",
-            "roman": "tuku",
-            "surface": "作"
+            "furigana": "い",
+            "roman": "i",
+            "surface": "言"
           },
           {
             "furigana": "っ",
@@ -1297,7 +4750,500 @@
             "surface": "っ"
           }
         ],
-        "surface": "作っ"
+        "surface": "言っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "もっと"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "むずかしい"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "よかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "ん"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "センゾクイケハアサケレドー"
+      },
+      {
+        "surface": "みたい"
+      },
+      {
+        "surface": "なの"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "かお",
+        "roman": "kao",
+        "surface": "顔"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "まっか",
+        "roman": "makka",
+        "subword": [
+          {
+            "furigana": "ま",
+            "roman": "ma",
+            "surface": "真"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          },
+          {
+            "furigana": "か",
+            "roman": "ka",
+            "surface": "赤"
+          }
+        ],
+        "surface": "真っ赤"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "わらい",
+        "roman": "warai",
+        "subword": [
+          {
+            "furigana": "わら",
+            "roman": "wara",
+            "surface": "笑"
+          },
+          {
+            "furigana": "い",
+            "roman": "i",
+            "surface": "い"
+          }
+        ],
+        "surface": "笑い"
+      },
+      {
+        "surface": "ながら"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "いい"
+      },
+      {
+        "surface": "かい"
+      },
+      {
+        "surface": "?"
+      },
+      {
+        "surface": "これ"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いい"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "おもう",
+        "roman": "omou",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "う",
+            "roman": "u",
+            "surface": "う"
+          }
+        ],
+        "surface": "思う"
+      },
+      {
+        "surface": "けど"
+      },
+      {
+        "surface": "な"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "furigana": "けっきょく",
+        "roman": "kekkyoku",
+        "surface": "結局"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "ほか",
+        "roman": "hoka",
+        "surface": "他"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "こども",
+        "roman": "kodomo",
+        "surface": "子供"
+      },
+      {
+        "furigana": "たち",
+        "roman": "tati",
+        "surface": "達"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "「"
+      },
+      {
+        "surface": "こんな"
+      },
+      {
+        "surface": "カンタン"
+      },
+      {
+        "surface": "すぎる"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "surface": "なら"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "いら"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "」"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "surface": "いっ"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "ことわっ",
+        "roman": "kotowaxtu",
+        "subword": [
+          {
+            "furigana": "ことわ",
+            "roman": "kotowa",
+            "surface": "断"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "断っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "ちょっと"
+      },
+      {
+        "furigana": "ざんねん",
+        "roman": "zannen",
+        "surface": "残念"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "けど"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "べつに",
+        "roman": "betuni",
+        "subword": [
+          {
+            "furigana": "べつ",
+            "roman": "betu",
+            "surface": "別"
+          },
+          {
+            "furigana": "に",
+            "roman": "ni",
+            "surface": "に"
+          }
+        ],
+        "surface": "別に"
+      },
+      {
+        "furigana": "いかり",
+        "roman": "ikari",
+        "subword": [
+          {
+            "furigana": "いか",
+            "roman": "ika",
+            "surface": "怒"
+          },
+          {
+            "furigana": "り",
+            "roman": "ri",
+            "surface": "り"
+          }
+        ],
+        "surface": "怒り"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "surface": "し"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こくばん",
+        "roman": "kokuban",
+        "surface": "黒板"
+      },
+      {
+        "surface": "けし"
+      },
+      {
+        "surface": "で"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "けし",
+        "roman": "kesi",
+        "subword": [
+          {
+            "furigana": "け",
+            "roman": "ke",
+            "surface": "消"
+          },
+          {
+            "furigana": "し",
+            "roman": "si",
+            "surface": "し"
+          }
+        ],
+        "surface": "消し"
+      },
+      {
+        "surface": "て"
+      },
+      {
+        "surface": "しまっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      },
+      {
+        "surface": "トット"
+      },
+      {
+        "surface": "ちゃん"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "surface": "すこし"
+      },
+      {
+        "surface": "（"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "に"
+      },
+      {
+        "furigana": "わるかっ",
+        "roman": "warukaxtu",
+        "subword": [
+          {
+            "furigana": "わる",
+            "roman": "waru",
+            "surface": "悪"
+          },
+          {
+            "furigana": "かっ",
+            "roman": "kaxtu",
+            "surface": "かっ"
+          }
+        ],
+        "surface": "悪かっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "かな"
+      },
+      {
+        "surface": "）"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
+          },
+          {
+            "furigana": "っ",
+            "roman": "xtu",
+            "surface": "っ"
+          }
+        ],
+        "surface": "思っ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "けど"
+      },
+      {
+        "surface": "（"
+      },
+      {
+        "surface": "ほしかっ"
       },
       {
         "surface": "た"
@@ -1306,20 +5252,94 @@
         "surface": "の"
       },
       {
-        "surface": "かも"
+        "surface": "は"
       },
       {
-        "surface": "しれ"
+        "surface": "、"
+      },
+      {
+        "surface": "もっと"
+      },
+      {
+        "furigana": "えら",
+        "roman": "era",
+        "surface": "偉"
+      },
+      {
+        "surface": "そう"
+      },
+      {
+        "surface": "な"
+      },
+      {
+        "surface": "ヤツ"
+      },
+      {
+        "surface": "だっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "ん"
+      },
+      {
+        "surface": "だ"
+      },
+      {
+        "surface": "もの"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "しかた",
+        "roman": "sikata",
+        "surface": "仕方"
+      },
+      {
+        "surface": "が"
       },
       {
         "surface": "ない"
       },
       {
-        "surface": "けど"
+        "surface": "や"
       },
       {
-        "surface": "、"
+        "surface": "）"
       },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "かんがえ",
+        "roman": "kangae",
+        "subword": [
+          {
+            "furigana": "かんが",
+            "roman": "kanga",
+            "surface": "考"
+          },
+          {
+            "furigana": "え",
+            "roman": "e",
+            "surface": "え"
+          }
+        ],
+        "surface": "考え"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "。"
+      }
+    ]
+  },
+  {
+    "key": "2",
+    "words": [
       {
         "furigana": "ほんとう",
         "roman": "hontou",
@@ -1332,62 +5352,135 @@
         "surface": "、"
       },
       {
-        "surface": "「"
+        "surface": "こんなに"
       },
       {
-        "surface": "よく"
+        "furigana": "かんたん",
+        "roman": "kantan",
+        "surface": "簡単"
       },
       {
-        "furigana": "かめ",
-        "roman": "kame",
-        "subword": [
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "噛"
-          },
-          {
-            "furigana": "め",
-            "roman": "me",
-            "surface": "め"
-          }
-        ],
-        "surface": "噛め"
+        "surface": "で"
       },
       {
-        "surface": "よ"
+        "surface": "『"
       },
       {
-        "surface": "」"
+        "furigana": "がっこう",
+        "roman": "gakkou",
+        "surface": "学校"
       },
       {
-        "surface": "と"
-      },
-      {
-        "surface": "いう"
-      },
-      {
-        "surface": "より"
+        "surface": "を"
       },
       {
         "surface": "、"
       },
       {
-        "furigana": "おしょくじ",
-        "roman": "osyokuzi",
+        "surface": "そして"
+      },
+      {
+        "furigana": "こども",
+        "roman": "kodomo",
+        "surface": "子供"
+      },
+      {
+        "surface": "たち"
+      },
+      {
+        "surface": "』"
+      },
+      {
+        "surface": "を"
+      },
+      {
+        "furigana": "あいする",
+        "roman": "aisuru",
         "subword": [
           {
-            "furigana": "お",
-            "roman": "o",
-            "surface": "お"
+            "furigana": "あい",
+            "roman": "ai",
+            "surface": "愛"
           },
           {
-            "furigana": "しょくじ",
-            "roman": "syokuzi",
-            "surface": "食事"
+            "furigana": "する",
+            "roman": "suru",
+            "surface": "する"
           }
         ],
-        "surface": "お食事"
+        "surface": "愛する"
+      },
+      {
+        "furigana": "こうちょう",
+        "roman": "koutyou",
+        "surface": "校長"
+      },
+      {
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
+      },
+      {
+        "surface": "の"
+      },
+      {
+        "furigana": "きもち",
+        "roman": "kimoti",
+        "subword": [
+          {
+            "furigana": "きも",
+            "roman": "kimo",
+            "surface": "気持"
+          },
+          {
+            "furigana": "ち",
+            "roman": "ti",
+            "surface": "ち"
+          }
+        ],
+        "surface": "気持ち"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "surface": "こもっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "は"
+      },
+      {
+        "surface": "なかっ"
+      },
+      {
+        "surface": "た"
+      },
+      {
+        "surface": "のに"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こども",
+        "roman": "kodomo",
+        "surface": "子供"
+      },
+      {
+        "furigana": "たち",
+        "roman": "tati",
+        "surface": "達"
+      },
+      {
+        "surface": "に"
       },
       {
         "surface": "は"
@@ -1396,151 +5489,45 @@
         "surface": "、"
       },
       {
-        "furigana": "じかん",
-        "roman": "zikan",
-        "surface": "時間"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": "かけ"
-      },
-      {
-        "surface": "て"
+        "surface": "まだ"
       },
       {
         "surface": "、"
       },
       {
-        "furigana": "たのしく",
-        "roman": "tanosiku",
+        "surface": "それ"
+      },
+      {
+        "surface": "が"
+      },
+      {
+        "furigana": "わから",
+        "roman": "wakara",
         "subword": [
           {
-            "furigana": "たの",
-            "roman": "tano",
-            "surface": "楽"
+            "furigana": "わ",
+            "roman": "wa",
+            "surface": "分"
           },
           {
-            "furigana": "しく",
-            "roman": "siku",
-            "surface": "しく"
+            "furigana": "から",
+            "roman": "kara",
+            "surface": "から"
           }
         ],
-        "surface": "楽しく"
+        "surface": "分から"
       },
       {
-        "surface": "、"
-      },
-      {
-        "surface": "いろんな"
-      },
-      {
-        "surface": "お"
-      },
-      {
-        "furigana": "はなし",
-        "roman": "hanasi",
-        "subword": [
-          {
-            "furigana": "はな",
-            "roman": "hana",
-            "surface": "話"
-          },
-          {
-            "furigana": "し",
-            "roman": "si",
-            "surface": "し"
-          }
-        ],
-        "surface": "話し"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "surface": "し"
-      },
-      {
-        "surface": "ながら"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "ゆっくり"
-      },
-      {
-        "furigana": "たべる",
-        "roman": "taberu",
-        "subword": [
-          {
-            "furigana": "た",
-            "roman": "ta",
-            "surface": "食"
-          },
-          {
-            "furigana": "べる",
-            "roman": "beru",
-            "surface": "べる"
-          }
-        ],
-        "surface": "食べる"
-      },
-      {
-        "surface": "もの"
-      },
-      {
-        "surface": "だ"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "いつも"
-      },
-      {
-        "furigana": "せいと",
-        "roman": "seito",
-        "surface": "生徒"
-      },
-      {
-        "surface": "に"
-      },
-      {
-        "furigana": "はなし",
-        "roman": "hanasi",
-        "subword": [
-          {
-            "furigana": "はな",
-            "roman": "hana",
-            "surface": "話"
-          },
-          {
-            "furigana": "し",
-            "roman": "si",
-            "surface": "し"
-          }
-        ],
-        "surface": "話し"
-      },
-      {
-        "surface": "て"
-      },
-      {
-        "surface": "い"
+        "surface": "なかっ"
       },
       {
         "surface": "た"
       },
       {
-        "surface": "から"
+        "surface": "。"
+      },
+      {
+        "surface": "そして"
       },
       {
         "surface": "、"
@@ -1549,10 +5536,37 @@
         "surface": "その"
       },
       {
+        "furigana": "あと",
+        "roman": "ato",
+        "surface": "後"
+      },
+      {
+        "surface": "、"
+      },
+      {
+        "furigana": "こども",
+        "roman": "kodomo",
+        "surface": "子供"
+      },
+      {
+        "surface": "たち"
+      },
+      {
+        "surface": "も"
+      },
+      {
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "の"
+      },
+      {
         "surface": "こと"
       },
       {
-        "surface": "を"
+        "surface": "は"
       },
       {
         "furigana": "わすれ",
@@ -1572,36 +5586,47 @@
         "surface": "忘れ"
       },
       {
-        "surface": "ない"
-      },
-      {
-        "surface": "よう"
-      },
-      {
-        "surface": "に"
-      },
-      {
         "surface": "、"
       },
       {
-        "surface": "この"
+        "furigana": "せんせい",
+        "roman": "sensei",
+        "surface": "先生"
       },
       {
-        "furigana": "うた",
-        "roman": "uta",
-        "surface": "歌"
+        "surface": "も"
       },
       {
-        "surface": "を"
-      },
-      {
-        "furigana": "つくっ",
-        "roman": "tukuxtu",
+        "furigana": "いら",
+        "roman": "ira",
         "subword": [
           {
-            "furigana": "つく",
-            "roman": "tuku",
-            "surface": "作"
+            "furigana": "い",
+            "roman": "i",
+            "surface": "要"
+          },
+          {
+            "furigana": "ら",
+            "roman": "ra",
+            "surface": "ら"
+          }
+        ],
+        "surface": "要ら"
+      },
+      {
+        "surface": "ない"
+      },
+      {
+        "surface": "と"
+      },
+      {
+        "furigana": "おもっ",
+        "roman": "omoxtu",
+        "subword": [
+          {
+            "furigana": "おも",
+            "roman": "omo",
+            "surface": "思"
           },
           {
             "furigana": "っ",
@@ -1609,7 +5634,7 @@
             "surface": "っ"
           }
         ],
-        "surface": "作っ"
+        "surface": "思っ"
       },
       {
         "surface": "た"
@@ -1618,242 +5643,84 @@
         "surface": "の"
       },
       {
-        "surface": "かも"
-      },
-      {
-        "surface": "しれ"
-      },
-      {
-        "surface": "なかっ"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "。"
-      },
-      {
-        "surface": "さて"
+        "surface": "か"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "みんな"
+        "furigana": "こくばん",
+        "roman": "kokuban",
+        "surface": "黒板"
       },
       {
-        "surface": "は"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "大きな"
-      },
-      {
-        "furigana": "こえ",
-        "roman": "koe",
-        "surface": "声"
+        "surface": "けし"
       },
       {
         "surface": "で"
       },
       {
-        "surface": "、"
-      },
-      {
-        "surface": "この"
-      },
-      {
-        "furigana": "うた",
-        "roman": "uta",
-        "surface": "歌"
-      },
-      {
-        "surface": "を"
-      },
-      {
-        "furigana": "うたう",
-        "roman": "utau",
+        "furigana": "けし",
+        "roman": "kesi",
         "subword": [
           {
-            "furigana": "うた",
-            "roman": "uta",
-            "surface": "歌"
+            "furigana": "け",
+            "roman": "ke",
+            "surface": "消"
           },
           {
-            "furigana": "う",
-            "roman": "u",
-            "surface": "う"
+            "furigana": "し",
+            "roman": "si",
+            "surface": "し"
           }
         ],
-        "surface": "歌う"
+        "surface": "消し"
       },
       {
-        "surface": "と"
+        "surface": "た"
       },
       {
-        "surface": "、"
-      },
-      {
-        "surface": "「"
-      },
-      {
-        "surface": "いただき"
-      },
-      {
-        "surface": "まー"
-      },
-      {
-        "surface": "す"
-      },
-      {
-        "surface": "」"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "いっ"
-      },
-      {
-        "surface": "て"
+        "surface": "まま"
       },
       {
         "surface": "、"
       },
       {
-        "surface": "『"
+        "furigana": "さいご",
+        "roman": "saigo",
+        "surface": "最後"
       },
       {
-        "furigana": "うみ",
-        "roman": "umi",
-        "surface": "海"
+        "surface": "まで"
       },
       {
-        "surface": "の"
+        "surface": "、"
       },
       {
-        "surface": "もの"
-      },
-      {
-        "surface": "と"
-      },
-      {
-        "surface": "山"
-      },
-      {
-        "surface": "の"
-      },
-      {
-        "surface": "もの"
-      },
-      {
-        "surface": "』"
+        "surface": "トモエ"
       },
       {
         "surface": "に"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "とりかかっ"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "。"
-      },
-      {
-        "surface": "トット"
-      },
-      {
-        "surface": "ちゃん"
-      },
-      {
-        "surface": "も"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "surface": "もちろん"
-      },
-      {
-        "surface": "、"
-      },
-      {
-        "furigana": "おなじように",
-        "roman": "onaziyouni",
-        "subword": [
-          {
-            "furigana": "おな",
-            "roman": "ona",
-            "surface": "同"
-          },
-          {
-            "furigana": "じように",
-            "roman": "ziyouni",
-            "surface": "じように"
-          }
-        ],
-        "surface": "同じように"
-      },
-      {
-        "surface": "し"
-      },
-      {
-        "surface": "た"
-      },
-      {
-        "surface": "。"
-      },
-      {
-        "surface": " "
-      },
-      {
-        "furigana": "こうどう",
-        "roman": "koudou",
-        "surface": "講堂"
       },
       {
         "surface": "は"
       },
       {
-        "furigana": "いっしゅん",
-        "roman": "issyun",
-        "surface": "一瞬"
+        "surface": "、"
       },
       {
-        "surface": "だけ"
+        "furigana": "こうか",
+        "roman": "kouka",
+        "surface": "校歌"
+      },
+      {
+        "surface": "って"
       },
       {
         "surface": "、"
       },
       {
-        "furigana": "しずか",
-        "roman": "sizuka",
-        "subword": [
-          {
-            "furigana": "しず",
-            "roman": "sizu",
-            "surface": "静"
-          },
-          {
-            "furigana": "か",
-            "roman": "ka",
-            "surface": "か"
-          }
-        ],
-        "surface": "静か"
-      },
-      {
-        "surface": "に"
-      },
-      {
-        "surface": "なっ"
+        "surface": "なかっ"
       },
       {
         "surface": "た"
