@@ -16,7 +16,8 @@ public class MojiMain {
     final static int PAGE_COUNT = 50; // 页大小
     final static int PAGE_INDEX = 1;  // 初始页
     final static int PAGE_MAX = 10;   // 最大页数
-    final static String FID = "zj0TjqOBzk"; // moji收藏夹id
+    final static String FID = "GYwcC5yI72"; // moji收藏夹id
+    final static String SESSION_TOKEN = "r:a408edb0d47766329770d93b0d88029a"; // moji收藏夹id
 
 
     static Map<String, String> id2title = new HashMap<>();
@@ -37,7 +38,7 @@ public class MojiMain {
         req.put("count", PAGE_COUNT);
         req.put("sortType", 5);
         req.put("pageIndex", PAGE_INDEX);
-        req.put("_SessionToken", "r:7ef646d592f88b90c11a12075e95e157");
+        req.put("_SessionToken", SESSION_TOKEN);
         req.put("_ClientVersion", "js3.4.1");
         req.put("_ApplicationId", "E62VyFVLMiW7kvbtVq3p");
         req.put("g_os", "PCWeb");
@@ -69,7 +70,7 @@ public class MojiMain {
         MojiWordReq.ObjectId objectId = new MojiWordReq.ObjectId();
         req.setItemsJson(Collections.singletonList(objectId));
         req.set_ApplicationId("E62VyFVLMiW7kvbtVq3p");
-        req.set_SessionToken("r:7ef646d592f88b90c11a12075e95e157");
+        req.set_SessionToken(SESSION_TOKEN);
 
         List<MojiData> dataList = new ArrayList<>();
         try {
